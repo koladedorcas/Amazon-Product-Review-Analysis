@@ -105,19 +105,19 @@ This project analyzes Amazon product and customer review data to generate action
 
 ### 8. What is the distribution of product ratings?
 
-![Pivot analysis 8](https://github.com/user-attachments/assets/13524198-e36b-4289-a022-d30b6f239332)
+![Pivot analysis 8](https://github.com/user-attachments/assets/013ad77e-e806-4528-bda5-a54f948d5fab)
 
----
+--- 
 
 ### 9. What is the total potential revenue by category?
 
-![pivot analysis 9](https://github.com/user-attachments/assets/b15ea2d1-87fd-4a96-876f-859c396b1a1d)
+![pivot analysis 9](https://github.com/user-attachments/assets/4907b7df-e655-48fb-8efd-13a5c129904f)
 
 ---
 
 ### 10. What is the number of unique products per price range?
 
-![Pivot analysis 10](https://github.com/user-attachments/assets/321548c5-6320-4757-9f46-c0854329cf86)
+![Pivot analysis 10](https://github.com/user-attachments/assets/c1152da4-6817-4ac0-b34b-d002c94416cc)
 
 ---
 
@@ -149,32 +149,60 @@ This project analyzes Amazon product and customer review data to generate action
 
 Below is a snapshot of the final dashboard combining insights from the pivot tables:
 
-![dashboard](visuals/dashboard_overview.png)
+![Amazon Product Review Analysis Dashboard](https://github.com/user-attachments/assets/b873b5f5-13b4-4af5-bc35-741d06df7cfe)
 
 ---
 
-## Key Insights
+## Key Insights from the Amazon Product Review Dashboard
+1. High Number of Products with Major Discounts
+- 674 products (over 50% of the catalog) offer ≥50% discount, showing that aggressive pricing strategies are common.
 
-- Electronics and Mobile Accessories categories had the **highest number of reviews** and discounts.
-- Products priced between ₹200–₹500 had the **most listings**.
-- There's a **positive correlation** between discount and rating in some categories.
-- A small number of products dominate in **ratings and reviews** — possibly brand leaders.
+- 85 categories contain these heavily discounted products, suggesting that competitive pricing cuts across product types.
 
----
+2. Massive Potential Revenue from Discounted Products
+   Products with ≥50% discount could generate over €36.9 billion in potential revenue, indicating volume-driven profit models.
 
-## What I Learned
+3. Product Ratings Are Generally High
+   Most products have a rating between 4.0 and 4.5, indicating overall customer satisfaction and quality perception.
 
-- Advanced use of Excel PivotTables, calculated fields, and slicers
-- Structuring analysis projects for clarity
-- Communicating data-driven stories visually
-- Documenting clean project portfolios using GitHub
+4. Few Products Dominate Reviews
+   The Top 10 most reviewed products are clustered within Electronics & Mobile Accessories, with some receiving over 600,000 reviews, highlighting best-sellers or highly marketed items.
 
+5. Price Buckets Skew Toward Affordable Products
+   A large share of products falls within the ₹200–₹500 range, suggesting that affordability is a major target for sellers.
+
+6. Rating vs Discount Patterns Vary by Category
+   In some categories, higher discounts correlate with slightly higher ratings, possibly due to increased customer expectations being met.
+
+7. Top 5 Products (Rating × Review Volume)
+   These products stand out not only for high ratings but also significant customer engagement, indicating they’re both well-loved and widely purchased.
+
+## What I Learned from This Project
+Excel Dashboards Can Tell Powerful Data Stories
+
+- I learned how to organize and visualize complex product data clearly using Pivot Tables, Charts, and KPI Cards.
+
+Using Slicers Makes Dashboards Interactive and Dynamic 
+
+- Slicers enhanced user control, making it easy to filter by category, rating, discount level, and price range for real-time    analysis.
+
+Calculated Fields Help Uncover Deeper Insights
+
+- Creating metrics like potential revenue, rating × review score, and bucketed discount levels helped me move from raw data to strategic business questions.
+
+Good Data Visualization Requires Balance
+
+- I practiced choosing the right chart types for each metric and learned how to avoid clutter by arranging insights in digestible blocks.
+
+Professional Documentation and Presentation Matter
+
+- Beyond analysis, I learned how to present my work clearly on GitHub so others can understand my thinking and approach.
 ---
 
 ## Live Files
 
 - [Click here to view the cleaned Excel file](data/amazon_reviews_cleaned.xlsx)
-- [Click here to view the full analysis workbook](analysis/amazon_eda.xlsx)
+- [Click here to view the full analysis workbook](Amazon product review analysis workbook.xlsx)
 
 ---
 
