@@ -202,7 +202,7 @@ Professional Documentation and Presentation Matter
 ## Live Files
 
 - [Click here to view the cleaned Excel file](data/amazon_reviews_cleaned.xlsx)
-- [Click here to view the full analysis workbook](#"C:\Users\MRS KOLADE DORCAS\Desktop\DSA PROJECT\Amazon product review analysis workbook.xlsx")
+- [Click here to view the full analysis workbook](#"C:/Users/MRS-KOLADE-DORCAS/Desktop/DSA-PROJECT/Amazon-product-review-analysis-workbook.xlsx")
 
 ---
 
