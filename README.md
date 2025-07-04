@@ -3,15 +3,15 @@
 RetailTech Insights – Data Analysis Project Documentation
 
 ##   Table of Contents
-[Project Overview](#Project Overview)
-[Project Objectives](#Project Objectives)
-[Dataset Description](#Dataset Description)
-[Tools used](#Tools used)
-[Analysis Questions & Analysis Pivot Table and Pivot Chart Visuals](#Analysis Questions & Analysis Pivot Table and Pivot Chart Visuals)
-[Final Dashboard ](#Final Dashboard)
-[Key Insights & Results](#Key Insights & Results)
-[What I Learnt](#What I Learnt)
-[Live files](#Live files)
+[Project Overview](#Projec- Overview)
+[Project Objectives](#Project-Objectives)
+[Dataset Description](#Dataset-Description)
+[Tools used](#Tools-used)
+[Analysis Questions & Analysis Pivot Table and Pivot Chart Visuals](#Analysis-Questions-&-Analysis-Pivot-Table-and-Pivot-Chart-Visuals)
+[Final Dashboard ](#Final-Dashboard)
+[Key Insights & Results](#Key-Insights-&-Results)
+[What I Learnt](#What-I-Learnt)
+[Live files](#Live-files)
 
 ---
 
