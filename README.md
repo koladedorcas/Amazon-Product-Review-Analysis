@@ -7,7 +7,7 @@ RetailTech Insights – Data Analysis Project Documentation
 - [Project Objectives](#Project-Objectives)
 - [Dataset Description](#Dataset-Description)
 - [Tools used](#Tools-used)
-- [Analysis Questions & Analysis Pivot Table and Pivot Chart Visuals](#Analysis-Questions&Analysis-Pivot-Table-and-Pivot-Chart-Visuals)
+- [Analysis Questions with the Pivot Table and Pivot Chart Visuals](#Analysis-Questions-with-the-Pivot-Table-and-Pivot-Chart-Visuals)
 - [Final Dashboard ](#Final-Dashboard)
 - [Key Insights & Results](#Key-Insights-&-Results)
 - [What I Learnt](#What-I-Learnt)
@@ -49,7 +49,7 @@ This project analyzes Amazon product and customer review data to generate action
 
 ---
 
-## Analysis Questions & Analysis Pivot Table and Pivot Chart Visuals
+## Analysis Questions with the Pivot Table and Pivot Chart Visuals
 
 ---
 ### Cleaned Amazon Product Dataset
