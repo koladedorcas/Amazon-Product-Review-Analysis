@@ -3,7 +3,7 @@
 RetailTech Insights – Data Analysis Project Documentation
 
 ##   Table of Contents
-- [Project Overview](#Projec- Overview)
+- [Project Overview](#Project-Overview)
 - [Project Objectives](#Project-Objectives)
 - [Dataset Description](#Dataset-Description)
 - [Tools used](#Tools-used)
