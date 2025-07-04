@@ -50,6 +50,10 @@ This project analyzes Amazon product and customer review data to generate action
 ---
 
 ## Analysis Questions & Analysis Pivot Table and Pivot Chart Visuals
+---
+### Cleaned Dataset
+![Cleaned Amazon dataset](https://github.com/user-attachments/assets/9022d2d4-06bf-4f1e-b00a-dc4c672713e3)
+---
 
 ### 1. What is the average discount percentage by product category?
 ![pivot1](visuals/pivot1_avg_discount_by_category.png)
