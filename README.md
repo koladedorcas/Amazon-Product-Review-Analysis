@@ -12,7 +12,7 @@ RetailTech Insights – Data Analysis Project Documentation
 - [Key Insights & Results](#Key-Insights-&-Results)
 - [What I Learnt](#What-I-Learnt)
 - [Live files](#Live-files)
-
+--[Link to Palmoria Group HR Analysis](Link-to-Palmoria-Group-HR-Analysis)
 ---
 
 ##  Project Overview
@@ -204,4 +204,4 @@ Professional Documentation and Presentation Matter
 - [Click here to view the full analysis workbook](https://github.com/koladedorcas/Amazon-Product-Review-Analysis/commit/91a9a06a14960ab7fac58854cbe9da7947ff62e2)
 
 ---
-
+## [Link to Palmoria Group HR Analysis](https://github.com/koladedorcas/Palmora-Group-HR-Analysis-)
