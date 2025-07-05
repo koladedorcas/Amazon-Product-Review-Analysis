@@ -178,23 +178,23 @@ Below is a snapshot of the final dashboard combining insights from the pivot tab
    These products stand out not only for high ratings but also significant customer engagement, indicating they’re both well-loved and widely purchased.
 
 ## What I Learned from This Project
-Excel Dashboards Can Tell Powerful Data Stories
+1. Excel Dashboards Can Tell Powerful Data Stories
 
 - I learned how to organize and visualize complex product data clearly using Pivot Tables, Charts, and KPI Cards.
 
-Using Slicers Makes Dashboards Interactive and Dynamic 
+2. Using Slicers Makes Dashboards Interactive and Dynamic 
 
 - Slicers enhanced user control, making it easy to filter by category, rating, discount level, and price range for real-time    analysis.
 
-Calculated Fields Help Uncover Deeper Insights
+3. Calculated Fields Help Uncover Deeper Insights
 
 - Creating metrics like potential revenue, rating × review score, and bucketed discount levels helped me move from raw data to strategic business questions.
-
-Good Data Visualization Requires Balance
+ 
+4. Good Data Visualization Requires Balance
 
 - I practiced choosing the right chart types for each metric and learned how to avoid clutter by arranging insights in digestible blocks.
 
-Professional Documentation and Presentation Matter
+5. Professional Documentation and Presentation Matter
 
 - Beyond analysis, I learned how to present my work clearly on GitHub so others can understand my thinking and approach.
 ---
