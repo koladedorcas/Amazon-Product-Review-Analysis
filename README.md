@@ -1,6 +1,6 @@
 
 # Amazon Product Review Analysis | Excel Dashboard
-RetailTech Insights – Data Analysis Project Documentation
+## DSA - Data Analysis Project Documentation
 
 ##   Table of Contents
 - [Project Overview](#Project-Overview)
