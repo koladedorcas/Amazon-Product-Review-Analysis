@@ -1,5 +1,5 @@
 
-# Amazon Product Review Analysis
+# Amazon Product Review Analysis | Excel Dashboard
 RetailTech Insights – Data Analysis Project Documentation
 
 ##   Table of Contents
