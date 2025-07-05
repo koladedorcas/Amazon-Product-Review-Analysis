@@ -12,7 +12,7 @@ RetailTech Insights – Data Analysis Project Documentation
 - [Key Insights & Results](#Key-Insights-&-Results)
 - [What I Learnt](#What-I-Learnt)
 - [Live files](#Live-files)
---[Link to Palmoria Group HR Analysis](#Link-to-Palmoria-Group-HR-Analysis)
+- [Link to Palmoria Group HR Analysis](#Link-to-Palmoria-Group-HR-Analysis)
 ---
 
 ##  Project Overview
